@@ -16,10 +16,8 @@ for i in range(1, 23):
         t1 = time.perf_counter() - t0
         print(t1)
         if p.returncode == 1:
-            print("There was an error!")
-            print()
-            print(runtimes_dict)
-            print()
+            print("There was an error!\n")
+            print(runtimes_dict, "\n")
             print(runtimes_list)
             exit()
         runtimes_dict['1987-' + str(1986 + i) + ' J' + str(j)] = t1
@@ -29,8 +27,7 @@ for key, value in runtimes_dict.items():
     print(key, str(value) + "s")
 
 print()
-print(runtimes_dict)
-print()
+print("\n", runtimes_dict, "\n")
 print(runtimes_list)
 
         
