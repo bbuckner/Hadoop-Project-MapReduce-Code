@@ -1,0 +1,553 @@
+Task 1
+
+Years 1987 to 1987: 
+Bottom 3 Carriers by On-Time Percentage	
+DL	22.571%
+PS	23.511%
+HP	27.235%
+Top 3 Carriers by On-Time Percentage	
+WN	52.515%
+AA	48.698%
+CO	48.074%
+
+Years 1987 to 1988: 
+Bottom 3 Carriers by On-Time Percentage	
+PI	34.267%
+AS	35.515%
+US	37.684%
+Top 3 Carriers by On-Time Percentage	
+WN	58.282%
+AA	51.92%
+CO	51.606%
+
+Years 1987 to 1989: 
+Bottom 3 Carriers by On-Time Percentage	
+PI	32.256%
+US	36.27%
+DL	37.212%
+Top 3 Carriers by On-Time Percentage	
+WN	54.372%
+CO	51.812%
+AA	51.381%
+
+Years 1987 to 1990: 
+Bottom 3 Carriers by On-Time Percentage	
+PI	32.256%
+DL	36.906%
+AS	39.421%
+Top 3 Carriers by On-Time Percentage	
+WN	52.819%
+EA	51.856%
+AA	50.776%
+
+Years 1987 to 1991: 
+Bottom 3 Carriers by On-Time Percentage	
+PI	32.256%
+DL	38.502%
+PS	41.778%
+Top 3 Carriers by On-Time Percentage	
+ML (1)	57.275%
+WN	53.546%
+PA (1)	51.899%
+
+Years 1987 to 1992: 
+Bottom 3 Carriers by On-Time Percentage	
+PI	32.256%
+DL	38.701%
+PS	41.778%
+Top 3 Carriers by On-Time Percentage	
+ML (1)	57.275%
+WN	57.1%
+NW	51.976%
+
+Years 1987 to 1993: 
+Bottom 3 Carriers by On-Time Percentage	
+PI	32.256%
+DL	38.276%
+PS	41.778%
+Top 3 Carriers by On-Time Percentage	
+WN	58.648%
+ML (1)	57.275%
+NW	53.261%
+
+Years 1987 to 1994: 
+Bottom 3 Carriers by On-Time Percentage	
+PI	32.256%
+DL	38.928%
+PS	41.778%
+Top 3 Carriers by On-Time Percentage	
+WN	58.021%
+ML (1)	57.275%
+NW	54.35%
+
+Years 1987 to 1995: 
+Bottom 3 Carriers by On-Time Percentage	
+PI	32.256%
+DL	39.415%
+PS	41.778%
+Top 3 Carriers by On-Time Percentage	
+ML (1)	57.275%
+WN	57.072%
+NW	54.698%
+
+Years 1987 to 1996: 
+Bottom 3 Carriers by On-Time Percentage	
+PI	32.256%
+DL	39.255%
+AS	40.702%
+Top 3 Carriers by On-Time Percentage	
+ML (1)	57.275%
+WN	56.445%
+NW	54.591%
+
+Years 1987 to 1997: 
+Bottom 3 Carriers by On-Time Percentage	
+PI	32.256%
+DL	39.355%
+AS	40.398%
+Top 3 Carriers by On-Time Percentage	
+ML (1)	57.275%
+WN	55.922%
+NW	53.989%
+
+Years 1987 to 1998: 
+Bottom 3 Carriers by On-Time Percentage	
+PI	32.256%
+AS	39.719%
+DL	40.521%
+Top 3 Carriers by On-Time Percentage	
+ML (1)	57.275%
+WN	55.52%
+NW	54.047%
+
+Years 1987 to 1999: 
+Bottom 3 Carriers by On-Time Percentage	
+PI	32.256%
+AS	39.761%
+DL	41.506%
+Top 3 Carriers by On-Time Percentage	
+ML (1)	57.275%
+WN	55.1%
+NW	54.655%
+
+Years 1987 to 2000: 
+Bottom 3 Carriers by On-Time Percentage	
+PI	32.256%
+AS	39.751%
+HP	41.641%
+Top 3 Carriers by On-Time Percentage	
+ML (1)	57.275%
+NW	54.926%
+WN	54.168%
+
+Years 1987 to 2001: 
+Bottom 3 Carriers by On-Time Percentage	
+PI	32.256%
+AS	39.801%
+PS	41.778%
+Top 3 Carriers by On-Time Percentage	
+ML (1)	57.275%
+NW	55.392%
+WN	54.849%
+
+Years 1987 to 2002: 
+Bottom 3 Carriers by On-Time Percentage	
+PI	32.256%
+AS	41.036%
+PS	41.778%
+Top 3 Carriers by On-Time Percentage	
+ML (1)	57.275%
+MQ	57.159%
+NW	55.709%
+
+Years 1987 to 2003: 
+Bottom 3 Carriers by On-Time Percentage	
+PI	32.256%
+PS	41.778%
+AS	42.574%
+Top 3 Carriers by On-Time Percentage	
+HA	69.584%
+OO	67.744%
+B6	63.43%
+
+Years 1987 to 2004: 
+Bottom 3 Carriers by On-Time Percentage	
+PI	32.256%
+PS	41.778%
+AS	43.577%
+Top 3 Carriers by On-Time Percentage	
+HA	77.58%
+OO	63.781%
+B6	61.928%
+
+Years 1987 to 2005: 
+Bottom 3 Carriers by On-Time Percentage	
+PI	32.256%
+PS	41.778%
+AS	43.829%
+Top 3 Carriers by On-Time Percentage	
+HA	78.346%
+OO	62.699%
+OH	61.198%
+
+Years 1987 to 2006: 
+Bottom 3 Carriers by On-Time Percentage	
+PI	32.256%
+PS	41.778%
+AS	44.246%
+Top 3 Carriers by On-Time Percentage	
+HA	77.358%
+DH	60.908%
+OO	60.294%
+
+Years 1987 to 2007: 
+Bottom 3 Carriers by On-Time Percentage	
+PI	32.256%
+PS	41.778%
+AS	44.657%
+Top 3 Carriers by On-Time Percentage	
+HA	76.548%
+AQ	61.39%
+DH	60.908%
+
+Years 1987 to 2008: 
+Bottom 3 Carriers by On-Time Percentage	
+PI	32.256%
+PS	41.778%
+AS	44.892%
+Top 3 Carriers by On-Time Percentage	
+HA	76.367%
+AQ	62.106%
+DH	60.908%
+
+Task 2
+
+Years 1987 to 1987: 
+
+Years 1987 to 1988: 
+
+Years 1987 to 1989: 
+
+Years 1987 to 1990: 
+
+Years 1987 to 1991: 
+
+Years 1987 to 1992: 
+
+Years 1987 to 1993: 
+
+Years 1987 to 1994: 
+
+Years 1987 to 1995: 
+Top 3 Airports by Average Taxi-In Time	
+LFT 0	
+SPN 0	
+BUR 1.9639986018874582	
+Top 3 Airports by Average Taxi-Out Time	
+ATW 0	
+GUM 0	
+KSM 5.255639097744363	
+Bottom 3 Airports by Average Taxi-In Time	
+DFW 9.972851927401326	
+JFK 8.586439797376274	
+DTW 8.5822457138985	
+Bottom 3 Airports by Average Taxi-Out Time	
+JFK 23.665771753956918	
+EWR 22.035203299510773	
+MIA 19.598418837930947	
+
+Years 1987 to 1996: 
+Top 3 Airports by Average Taxi-In Time	
+ABI 0.0	
+SPN 0	
+BUR 1.9729070490783291	
+Top 3 Airports by Average Taxi-Out Time	
+ATW 0	
+ABI 0	
+GUM 0	
+Bottom 3 Airports by Average Taxi-In Time	
+DFW 10.093529600445406	
+JFK 8.843382304061683	
+DTW 8.504875449316023	
+Bottom 3 Airports by Average Taxi-Out Time	
+JFK 24.9855292462134	
+EWR 23.257632727383875	
+MIA 19.301246552515078	
+
+Years 1987 to 1997: 
+Top 3 Airports by Average Taxi-In Time	
+ABI 0.0	
+SPN 0	
+DUT 2.007941356139275	
+Top 3 Airports by Average Taxi-Out Time	
+GUM 0	
+ATW 0	
+ABI 0	
+Bottom 3 Airports by Average Taxi-In Time	
+DFW 10.128025070866217	
+JFK 8.837279608603229	
+DTW 8.629778597301984	
+Bottom 3 Airports by Average Taxi-Out Time	
+JFK 24.942058203419748	
+EWR 23.958919832573013	
+LGA 19.516266672141423	
+
+Years 1987 to 1998: 
+Top 3 Airports by Average Taxi-In Time	
+GGG 0.0	
+ABI 0.0	
+MKK 0	
+Top 3 Airports by Average Taxi-Out Time	
+GGG 0	
+GUM 0	
+ATW 0	
+Bottom 3 Airports by Average Taxi-In Time	
+DFW 10.056430510984606	
+JFK 8.823659163540594	
+DTW 8.70205218324682	
+Bottom 3 Airports by Average Taxi-Out Time	
+JFK 25.47150505237765	
+EWR 24.85091241457764	
+LGA 20.300518804732146	
+
+Years 1987 to 1999: 
+Top 3 Airports by Average Taxi-In Time	
+GGG 0.0	
+ABI 0.0	
+MKK 0	
+Top 3 Airports by Average Taxi-Out Time	
+GGG 0	
+GUM 0	
+ATW 0	
+Bottom 3 Airports by Average Taxi-In Time	
+DFW 10.027140601672036	
+DTW 8.811568809604763	
+JFK 8.726390094471686	
+Bottom 3 Airports by Average Taxi-Out Time	
+JFK 25.978109873540856	
+EWR 25.473668586953426	
+LGA 21.33703512822623	
+
+Years 1987 to 2000: 
+Top 3 Airports by Average Taxi-In Time	
+GGG 0.0	
+ABI 0.0	
+MKK 0	
+Top 3 Airports by Average Taxi-Out Time	
+GGG 0	
+GUM 0	
+ATW 0	
+Bottom 3 Airports by Average Taxi-In Time	
+DFW 10.040942294057396	
+DTW 8.91586902366345	
+JFK 8.759408122174392	
+Bottom 3 Airports by Average Taxi-Out Time	
+JFK 26.476666451300755	
+EWR 25.732156706591738	
+LGA 22.508273978926745	
+
+Years 1987 to 2001: 
+Top 3 Airports by Average Taxi-In Time	
+ACY 0	
+MKK 0	
+LNY 0.0	
+Top 3 Airports by Average Taxi-Out Time	
+GUM 0	
+ATW 0	
+MKK 0.0	
+Bottom 3 Airports by Average Taxi-In Time	
+DFW 10.225057339449648	
+DTW 8.969866280508002	
+JFK 8.958476421617522	
+Bottom 3 Airports by Average Taxi-Out Time	
+JFK 25.947620896185075	
+EWR 25.664441097704376	
+LGA 22.665108462621177	
+
+Years 1987 to 2002: 
+Top 3 Airports by Average Taxi-In Time	
+MKK 0	
+LNY 0.0	
+SPN 0	
+Top 3 Airports by Average Taxi-Out Time	
+GUM 0	
+ATW 0	
+MKK 0.0	
+Bottom 3 Airports by Average Taxi-In Time	
+ACY 334.0	
+DFW 10.447045206985603	
+DTW 9.055018522135379	
+Bottom 3 Airports by Average Taxi-Out Time	
+JFK 25.660026613546087	
+EWR 25.366611599672254	
+LGA 22.53880578715002	
+
+Years 1987 to 2003: 
+Top 3 Airports by Average Taxi-In Time	
+BFF 0.0	
+CYS 0.0	
+FMN 0.0	
+Top 3 Airports by Average Taxi-Out Time	
+GUM 0	
+PUB 0	
+MKK 3.661290322580644	
+Bottom 3 Airports by Average Taxi-In Time	
+VLD 34.51384199864961	
+GNV 26.82559954590593	
+PHF 25.580776340110948	
+Bottom 3 Airports by Average Taxi-Out Time	
+EWR 25.237578271308255	
+JFK 25.110953653257035	
+LGA 22.669328126671473	
+
+Years 1987 to 2004: 
+Top 3 Airports by Average Taxi-In Time	
+BFF 0.0	
+PUB 0.0	
+OGD 0.0	
+Top 3 Airports by Average Taxi-Out Time	
+CBM 0	
+SKA 0	
+GUM 0	
+Bottom 3 Airports by Average Taxi-In Time	
+CKB 210.0	
+MKK 88.29166666666669	
+GNV 51.52035435562115	
+Bottom 3 Airports by Average Taxi-Out Time	
+CKB 249.33333333333334	
+EWR 25.381911598300505	
+JFK 24.936416366606995	
+
+Years 1987 to 2005: 
+Top 3 Airports by Average Taxi-In Time	
+BFF 0.0	
+PUB 0.0	
+FMN 0.0	
+Top 3 Airports by Average Taxi-Out Time	
+CBM 0	
+LAR 0	
+SKA 0	
+Bottom 3 Airports by Average Taxi-In Time	
+CKB 210.0	
+MKK 88.29166666666663	
+FLO 52.98173970783528	
+Bottom 3 Airports by Average Taxi-Out Time	
+CKB 214.42857142857144	
+EWR 25.478092131804893	
+JFK 25.454258993990948	
+
+Years 1987 to 2006: 
+Top 3 Airports by Average Taxi-In Time	
+BFF 0.0	
+PUB 0.0	
+CYS 0.0	
+Top 3 Airports by Average Taxi-Out Time	
+CBM 0	
+LAR 0	
+SKA 0	
+Bottom 3 Airports by Average Taxi-In Time	
+CKB 210.0	
+MKK 88.29166666666663	
+VLD 48.28632558139534	
+Bottom 3 Airports by Average Taxi-Out Time	
+CKB 188.75	
+JFK 26.47204655633032	
+EWR 25.84444769366569	
+
+Years 1987 to 2007: 
+Top 3 Airports by Average Taxi-In Time	
+BFF 0.0	
+PUB 0.0	
+CYS 0.0	
+Top 3 Airports by Average Taxi-Out Time	
+CBM 0	
+LAR 0	
+SKA 0	
+Bottom 3 Airports by Average Taxi-In Time	
+CKB 210.0	
+MKK 88.29166666666666	
+VLD 41.00870646766185	
+Bottom 3 Airports by Average Taxi-Out Time	
+CKB 188.75	
+JFK 27.82648887676312	
+EWR 26.076834854386387	
+
+Years 1987 to 2008: 
+Top 3 Airports by Average Taxi-In Time	
+BFF 0.0	
+PUB 0.0	
+CYS 0.0	
+Top 3 Airports by Average Taxi-Out Time	
+CBM 0	
+LAR 0	
+SKA 0	
+Bottom 3 Airports by Average Taxi-In Time	
+CKB 210.0	
+MKK 88.29166666666674	
+VLD 39.185836782968714	
+Bottom 3 Airports by Average Taxi-Out Time	
+CKB 188.75	
+JFK 28.005020092346058	
+EWR 26.105689676830874
+
+Task 3
+
+Years 1987 to 1987: 
+
+Years 1987 to 1988: 
+
+Years 1987 to 1989: 
+
+Years 1987 to 1990: 
+
+Years 1987 to 1991: 
+
+Years 1987 to 1992: 
+
+Years 1987 to 1993: 
+
+Years 1987 to 1994: 
+
+Years 1987 to 1995: 
+
+Years 1987 to 1996: 
+
+Years 1987 to 1997: 
+
+Years 1987 to 1998: 
+
+Years 1987 to 1999: 
+
+Years 1987 to 2000: 
+
+Years 1987 to 2001: 
+
+Years 1987 to 2002: 
+
+Years 1987 to 2003: 
+The most common reason for flight cancellations is: 	
+A - Carrier	
+
+Years 1987 to 2004: 
+The most common reason for flight cancellations is: 	
+A - Carrier	
+
+Years 1987 to 2005: 
+The most common reason for flight cancellations is: 	
+A - Carrier	
+
+Years 1987 to 2006: 
+The most common reason for flight cancellations is: 	
+A - Carrier	
+
+Years 1987 to 2007: 
+The most common reason for flight cancellations is: 	
+A - Carrier	
+
+Years 1987 to 2008: 
+The most common reason for flight cancellations is: 	
+A - Carrier	
+
+
+
+
